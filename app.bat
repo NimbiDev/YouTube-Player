@@ -1,0 +1,3 @@
+@ECHO OFF
+ECHO Launching YouTube Player ...
+"src\out\YouTube-win32-x64\YouTube.exe" >> app_debug.log 2>&1
