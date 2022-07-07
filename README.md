@@ -24,6 +24,8 @@
 
 ---
 
+ - Download the `YouTubePlayer-setup.exe` file from the latest release.
+ - Double click the `YouTubePlayer-setup.exe` file to run the setup.
  - **If NodeJS is installed**: The setup will auto compile the application into the `%SystemDrive%\Apps\YouTube Player` directory. 
     - From there, simply wait for it to finish compiling your application.
     - Finally, once it is done compiling your application simply double-click the shortcut on your desktop or in your start menu to run the application. 
