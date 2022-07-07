@@ -24,13 +24,15 @@
 
 ---
 
-1. Download the `YouTubePlayer-setup.exe` file from the latest release.
-2. Double click the `YouTubePlayer-setup.exe` file to run the setup.
-3. 
+ - **If NodeJS is installed**: The setup will auto compile the application into the `%SystemDrive%\Apps\YouTube Player` directory. 
+    - From there, simply wait for it to finish compiling your application.
+    - Finally, once it is done compiling your application simply double-click the shortcut on your desktop or in your start menu to run the application. 
 
- - **If NodeJS is installed**: The setup will auto compile the application into the `%SystemDrive%\Apps\YouTube Player` directory. from there simply wait for it to finish compiling and then double-click the shortcut to run the application. 
-
- - **If NodeJS is NOT installed**: The setup will open your browser to the official download page for NodeJS and automatically download the required NodeJS version for you. From ther run the NodeJS installer and once finished run the `YouTubePlayer-setup.exe` file again. Once it finishes compiling your app simply double-click the shortcut to run the application.
+ - **If NodeJS is NOT installed**: The setup will open your browser to the official download page for **NodeJS** and automatically download the required **NodeJS** version for you. 
+    - Run the downloaded **NodeJS** installer.
+    - Then, run the `YouTubePlayer-setup.exe` file again.
+    - From there, simply wait for it to finish compiling your application.
+    - Finally, once it finishes compiling your app simply double-click the shortcut on your desktop or in your start menu to run the application.
  
 ---
 
@@ -53,4 +55,4 @@
 
 ---
 
-🧑‍⚖️ This is an unofficial application and not published or supported by YouTube or Google llc. Intended for personal and educational purposes. I am liable for nothing.
+🧑‍⚖️ This is an unofficial application and not published or supported by YouTube or Google llc. It is intended for personal and educational purposes ***ONLY***. I am liable for nothing.
