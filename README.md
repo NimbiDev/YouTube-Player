@@ -1,5 +1,5 @@
 ![Github top language](https://img.shields.io/github/languages/top/NimbiDev/YouTube-Player?style=plastic)
-![Github issues](https://img.shields.io/github/issues/NimbiDev/YouTube-Player?style=plastic)
+![Github issues](https://img.shields.io/github/issues/NimbiDev/.github?style=plastic)
 ![GitHub forks](https://img.shields.io/github/forks/NimbiDev/YouTube-Player?style=plastic)
 ![GitHub stars](https://img.shields.io/github/stars/NimbiDev/YouTube-Player?style=plastic)
 ![GitHub license](https://img.shields.io/github/license/NimbiDev/YouTube-Player?style=plastic)
